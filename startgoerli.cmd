@@ -1,0 +1,1 @@
+geth --goerli --rpc --rpcapi="personal,eth,network,web3,net"
